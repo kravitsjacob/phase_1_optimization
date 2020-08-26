@@ -1,4 +1,4 @@
-#I. File list
+# I. File list
 ```
 .
 |    optimization.py - Python script of phase 1 optimization
@@ -11,7 +11,7 @@
 place the above files in the borg_files directory.
 ```
 
-#II. How to Run
+# II. How to Run
 1. Download the associated data at <insert url later>. Note, that this already contains both the inputs and outputs 
 of the phase 1 optimization.
 2. Download and Run Docker Desktop. For more information on Docker visit: https://docs.docker.com/desktop/. To ensure 
