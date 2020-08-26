@@ -14,7 +14,7 @@ place the above files in the borg_files directory.
 # II. How to Run
 1. Download the associated data at <insert url later>. Note, that this already contains both the inputs and outputs 
 of the phase 1 optimization.
-2. Download the Borg MOEA wrapper files (see above) and place them in the proper directory.
+2. Download the Borg MOEA wrapper files (see above) and place them in the borg_files directory.
 3. Download and Run Docker Desktop. For more information on Docker visit: https://docs.docker.com/desktop/. To ensure 
 that it is installed correctly go to the command prompt/terminal and enter $ docker --version
 4. Change to the current working directory using command prompt/terminal $ cd <insert_path_to_\phase_1_optimization>
