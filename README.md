@@ -12,7 +12,7 @@ place the above files in the borg_files directory.
 ```
 
 # II. How to Run
-1. Download the associated data at <insert url later>. Note, that this already contains both the inputs and outputs 
+1. Download the associated data at https://osf.io/vyzh8/. Note, that this already contains both the inputs and outputs 
 of the phase 1 optimization.
 2. Download the Borg MOEA wrapper files (see above) and place them in the borg_files directory.
 3. Download and Run Docker Desktop. For more information on Docker visit: https://docs.docker.com/desktop/. To ensure 
